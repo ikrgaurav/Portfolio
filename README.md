@@ -1,12 +1,3 @@
-# Getting Started with my portfolio
-
-Third version of my personal portfolio
-<div align="center">
-  <img alt="Demo" src="./public/demo.png" />
-</div>
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
